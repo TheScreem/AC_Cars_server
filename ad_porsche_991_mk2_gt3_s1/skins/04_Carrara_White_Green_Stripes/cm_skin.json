@@ -1,0 +1,26 @@
+{
+  "carPaint": {
+    "complex": false,
+    "reflection": 0.922,
+    "gloss": 1.0,
+    "specular": 0.20700000000000002,
+    "color": "#FFC6C6C6",
+    "flakes": 0.552,
+    "enabled": true
+  },
+  "carpet": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "licensePlate": {
+    "style": "Europe"
+  },
+  "rims": {
+    "enabled": false,
+    "colors": [
+      "#686A6B"
+    ]
+  }
+}

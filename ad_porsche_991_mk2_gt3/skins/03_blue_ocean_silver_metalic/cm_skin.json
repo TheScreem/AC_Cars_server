@@ -1,0 +1,29 @@
+{
+  "carPaint": {
+    "complex": false,
+    "reflection": 1.0,
+    "gloss": 1.0,
+    "specular": 1.0,
+    "color": "#FF003468",
+    "flakes": 0.558,
+    "enabled": false
+  },
+  "carpet": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "licensePlate": {
+    "style": "Europe",
+    "paramPrefix": "AD",
+    "paramNumber": "XX66",
+    "paramPostfix": "AC"
+  },
+  "rims": {
+    "enabled": true,
+    "colors": [
+      "#4C4F51"
+    ]
+  }
+}
