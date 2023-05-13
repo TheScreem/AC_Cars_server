@@ -10,7 +10,8 @@ Ex pour moi : E:\SteamLibrary\steamapps\common\assettocorsa\content
 
 Maitenant vous avez un dossier cars_old qui contient tout vos anciennes voitures et un dossier cars qui contient les voitures du serveur d'Alex
 Si vous voulez rejouer avec vos voitures vous devez les déplacer du répértoire cars_old au répértoire cars
-(Un script d'automatisation sera surement développper pour ça plus tard)
+
+4. Pour cela utiliser le script Compare_cars_with cars_old.bat
 
 Le fichier Update_cars.bat vous permet de vous mettre à jour par rapport au voiture présent sur le serveur d'Alex
 
