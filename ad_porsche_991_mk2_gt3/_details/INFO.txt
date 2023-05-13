@@ -1,9 +1,0 @@
-
-
-Put selected files/textures into skin's folder you wish to use on car
-
-[DATA]
-YEAR=2018
-CURRENT_VERSION=1.16.x
-RELEASE=at www.assettodrive.net
-AUTHOR=A.Showmebest
