@@ -12,6 +12,7 @@
 Maintenant, vous avez un dossier `cars_old` qui contient toutes vos anciennes voitures et un dossier `cars` qui contient les voitures du serveur d'Alex.
 
 4. Si vous voulez rejouer avec vos anciennes voitures, vous devez les déplacer du répertoire `cars_old` au répertoire `cars`.
+   /!\/!\ ATTENTION /!\/!\ Cela peut prendre beaucoup de place sur le disque (2x la taille de votre dossier `cars_old`)
    Pour cela, utilisez le script `Compare_cars_with_cars_old.bat`.
    Avant de supprimer le dossier `cars_old`, assurez-vous que toutes vos voitures sont présentes dans `cars`.
 
